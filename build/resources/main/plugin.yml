@@ -1,0 +1,4 @@
+name: EtherealLag
+version: '1.0-SNAPSHOT'
+main: gg.ethereallabs.etherealLag.EtherealLag
+api-version: '1.18'
